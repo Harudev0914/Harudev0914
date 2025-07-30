@@ -1,6 +1,11 @@
 ![title](https://i.gifer.com/xK.gif)   
 
 ---
+<audio autoplay loop controls>
+  <source src="your-audio-file.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+---
 
 ## 🛠️ Tech Stacks
 
