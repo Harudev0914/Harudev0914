@@ -2,11 +2,6 @@
 
 ---
 
-![lofi cat](https://media.giphy.com/media/jQmVFypWInKCc/giphy.gif)
-[🎵 듣기](https://www.youtube.com/watch?v=N_vYUNEktsA&list=RDN_vYUNEktsA&start_radio=1)
-
----
-
 ## 🛠️ Tech Stacks
 
 | Category         | Tech Stack                                                                                          |
