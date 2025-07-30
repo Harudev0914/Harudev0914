@@ -1,10 +1,10 @@
 ![title](https://i.gifer.com/xK.gif)   
 
 ---
-<audio autoplay loop controls>
-  <source src="your-audio-file.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+
+![lofi cat](https://media.giphy.com/media/jQmVFypWInKCc/giphy.gif)
+[🎵 듣기](https://www.youtube.com/watch?v=N_vYUNEktsA&list=RDN_vYUNEktsA&start_radio=1)
+
 ---
 
 ## 🛠️ Tech Stacks
